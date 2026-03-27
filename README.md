@@ -68,3 +68,4 @@ Thus, as of 4.0.0, Equisetum also will be licensed as GPL-3.
 
 2020 - 2024 © Litov Alexander
 
+2025-2026 © Rylan Sharma (improved equisetum chess engine)
