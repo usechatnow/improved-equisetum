@@ -1,7 +1,7 @@
 <h1 align="center">vector</h1>
 
 <p align="center">
- <img src="Logo/equisetum.png" width="350"/>
+ <img src="Logo/Equisetum.png" width="350"/>
 </p>
 
 A UCI chess engine written in C++11.
